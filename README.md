@@ -8,21 +8,22 @@ I'm a self-taught passionate Backend developer from India
 - [Twitter](https://github.com/Exido-Rio)
 - [Website](https://github.com/Exido-Rio)
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Exido-Rio&show_icons=true&theme=tokyonight" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exido-Rio&layout=compact&show_icons=true&theme=dark" />
-</a>
+ <a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Exido-Rio&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>  <a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exido-Rio&layout=compact&show_icons=true&theme=dark&hide_border=true" />
+</a> 
+
 
 <br>
+
 #### Top Repositories
 
 <br>
 
 <a href="https://github.com/Exido-Rio/The-Encryptor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exido-Rio&repo=The-Encryptor&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exido-Rio&repo=The-Encryptor&theme=synthwave" />
 </a>
 <a href="https://github.com/Exido-Rio/Attendance-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exido-Rio&repo=Attendance-System&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exido-Rio&repo=Attendance-System&theme=synthwave" />
 </a>
