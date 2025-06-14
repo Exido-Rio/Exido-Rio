@@ -55,6 +55,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Exido-Rio&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 <a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Exido-Rio&theme=dark&hide_border=false" />
+</a>
+
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exido-Rio&layout=compact&show_icons=true&theme=dark&hide_border=true" />
 </a>
 
