@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 
-- 🚀 Full Stack Developer with AWS Certification, specializing in **DevOps** and **DevSecOps**.
+- 🚀 Full Stack Developer with AWS Certification and Github specializing in **DevOps** and **DevSecOps**.
 - 🌐 Expertise in developing and deploying secure applications in **AWS** and **Azure** environments.
 - 💻 Skilled in Python, JavaScript, and diverse frameworks for robust frontend and backend solutions.
 - 🔍 Conducts in-depth security research, publishing insights on cloud security and penetration testing.
