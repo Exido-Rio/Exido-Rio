@@ -8,7 +8,7 @@
 - 🌐 Expertise in developing and deploying secure applications in **AWS** and **Azure** environments.
 - 💻 Skilled in Python, JavaScript, and diverse frameworks for robust frontend and backend solutions.
 - 🔍 Conducts in-depth security research, publishing insights on cloud security and penetration testing.
-- 🎖️ Achieved top 1% ranking on [Hack The Box](https://app.hackthebox.com/profile/1312188) and [TryHackMe](https://tryhackme.com/p/0xExido).
+- 🎖️ Achieved top 1% ranking on [Hack The Box](https://app.hackthebox.com/profile/1312188)(Season 7) and [TryHackMe](https://tryhackme.com/p/0xExido).
 
 ## 🛠️ Tools & Languages
 
