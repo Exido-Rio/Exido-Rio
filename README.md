@@ -52,35 +52,31 @@
 ## 📊 GitHub Stats
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Exido-Rio&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Exido-Rio&theme=dark&hide_border=false" />
+  <img align="center" src="https://anything-eta-gold.vercel.app/api?username=Exido-Rio&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 
+
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exido-Rio&layout=compact&show_icons=true&theme=dark&hide_border=true" />
+  <img align="center" src="https://anything-eta-gold.vercel.app/api/top-langs/?username=Exido-Rio&layout=compact&show_icons=true&theme=dark&hide_border=true" />
 </a>
 
 ## 📌 Top Repositories
 
 <a href="https://github.com/Exido-Rio/Cloud-Serverless-Auth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exido-Rio&repo=Cloud-Serverless-Auth&theme=synthwave" />
+  <img align="center" src="https://anything-eta-gold.vercel.app/api/pin/?username=Exido-Rio&repo=Cloud-Serverless-Auth&theme=synthwave" />
 </a>
 <a href="https://github.com/Exido-Rio/udpC2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exido-Rio&repo=udpC2&theme=synthwave" />
+  <img align="center" src="https://anything-eta-gold.vercel.app/api/pin/?username=Exido-Rio&repo=udpC2&theme=synthwave" />
 </a>
 <a href="https://github.com/Exido-Rio/Voltus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exido-Rio&repo=Voltus&theme=synthwave" />
+  <img align="center" src="https://anything-eta-gold.vercel.app/api/pin/?username=Exido-Rio&repo=Voltus&theme=synthwave" />
 </a>
 <a href="https://github.com/Exido-Rio/P2P-E2E-chat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exido-Rio&repo=P2P-E2E-chat&theme=synthwave" />
+  <img align="center" src="https://anything-eta-gold.vercel.app/api/pin/?username=Exido-Rio&repo=P2P-E2E-chat&theme=synthwave" />
 </a>
-<a href="https://github.com/Exido-Rio/AI-CALC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exido-Rio&repo=AI-CALC&theme=synthwave" />
-</a>
+
 <a href="https://github.com/Exido-Rio/aws-s3-clf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Exido-Rio&repo=aws-s3-clf&theme=synthwave" />
+  <img align="center" src="https://anything-eta-gold.vercel.app/api/pin/?username=Exido-Rio&repo=aws-s3-clf&theme=synthwave" />
 </a>
 
 ---
