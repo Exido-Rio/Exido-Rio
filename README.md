@@ -7,6 +7,7 @@
 - 🚀 Full Stack Developer with AWS and Github Certification specializing in **DevOps** and **DevSecOps**.
 - 🌐 Expertise in developing and deploying secure applications in **AWS** and **Azure** environments.
 - 💻 Skilled in Python, JavaScript, and diverse frameworks for robust frontend and backend solutions.
+- 🔐 Building next-gen secure systems with **post-quantum cryptography** (X-Wing hybrid KEM).
 - 🔍 Conducts in-depth security research, publishing insights on cloud security and penetration testing.
 - 🎖️ Achieved top 1% ranking on [Hack The Box](https://app.hackthebox.com/profile/1312188)(Season 7) and [TryHackMe](https://tryhackme.com/p/0xExido).
 
@@ -49,6 +50,17 @@
 - [![GitHub](https://img.shields.io/badge/GitHub-Exido--Rio-lightgrey)](https://github.com/Exido-Rio)
 - [![Blog](https://img.shields.io/badge/Blog-Exido--Rio-green)](https://blog.aadityaprakashmaurya.tech)
 
+## 🚀 Recent Projects
+
+### [P2P + X-Wing Post-Quantum E2E Chat](https://github.com/Exido-Rio/P2P-E2E-chat)
+Peer-to-peer encrypted chat with **X-Wing hybrid post-quantum cryptography** (ML-KEM-768 + X25519).
+
+**Key Features:**
+- ⚛️ **Quantum-resistant** key exchange using NIST-approved ML-KEM-768
+- 🔒 AES-256-GCM authenticated encryption via Web Crypto API
+- 🛡️ Safety number verification (50-digit codes) for MITM protection
+- 🔑 Automatic key wiping on reconnect for forward secrecy
+
 ## 📊 GitHub Stats
 
 <a>
@@ -81,4 +93,4 @@
 
 ---
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/aditya-prakash-maurya) or explore my [blog](https://blog.aadityaprakashmaurya.tech) for insights and articles on cloud security!
+💬 **Let's Connect!** Check out my [LinkedIn](https://www.linkedin.com/in/aditya-prakash-maurya), explore my [blog](https://blog.aadityaprakashmaurya.tech) for insights on cloud security, DevSecOps, and post-quantum cryptography, or try my [quantum-secure chat](https://chat.aadityaprakashmaurya.tech/) demo!
