@@ -93,4 +93,4 @@ Peer-to-peer encrypted chat with **X-Wing hybrid post-quantum cryptography** (ML
 
 ---
 
-💬 **Let's Connect!** Check out my [LinkedIn](https://www.linkedin.com/in/aditya-prakash-maurya), explore my [blog](https://blog.aadityaprakashmaurya.tech) for insights on cloud security, DevSecOps, and post-quantum cryptography, or try my [quantum-secure chat](https://chat.aadityaprakashmaurya.tech/) demo!
+💬 **Let's Connect!** Check out my [LinkedIn](https://www.linkedin.com/in/aditya-prakash-maurya), explore my [blog](https://exido-rio.github.io/Writeup/) for insights on cloud security, DevSecOps, and post-quantum cryptography, or try my [quantum-secure chat](https://exido-rio.github.io/P2P-E2E-chat/) demo!
